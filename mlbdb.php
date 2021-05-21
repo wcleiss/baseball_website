@@ -1,3 +1,5 @@
+#MLBDB is the home page for my baseball website and lists an overview of expected outcomes in baseball for the day.
+
 <HEAD>
 <link rel="stylesheet" type="text/css" href="cbb66.css">
 <meta name="description" content="Advanced MLB predictions and betting picks">
