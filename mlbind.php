@@ -1,3 +1,6 @@
+#MLBIND is a PHP file that lists each player's indivudal baseball stats among various stages of the adjustment waterfall.
+#I plan on adding a play by play section soon.
+
 <HEAD>
 <link rel="stylesheet" type="text/css" href="cbb66.css">
 <meta name="description" content="Advanced MLB predictions and betting picks">
