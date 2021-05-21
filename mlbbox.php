@@ -1,3 +1,5 @@
+#MLB Box is a PHP File that displays the projected box score for baseball games.
+
 <HEAD>
 <link rel="stylesheet" type="text/css" href="cbb66.css">
 <meta name="description" content="Advanced MLB predictions and betting picks">
