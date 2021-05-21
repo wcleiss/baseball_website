@@ -1,3 +1,5 @@
+#MLBPlayers is a PHP page that ranks each batter and pitcher based on their adjusted "WOBA" rating.
+
 <HEAD>
 <link rel="stylesheet" type="text/css" href="cbb66.css">
 <meta name="description" content="Advanced MLB predictions and betting picks">
